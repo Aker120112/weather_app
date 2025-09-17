@@ -2,12 +2,25 @@
 
 Welcome to the Weather App repository! This project is a web application that provides real-time weather updates for any location. It utilizes HTML, CSS, and JavaScript to deliver a user-friendly interface and fetches data using the OpenWeatherMap API.
 
+
 ## Features
 
 - **Live Weather Data**: Get up-to-date weather information for your current location or search for any city worldwide.
-- **5 Days Forecast**: You Can See your city 5 days forecast 
-- **Explore Section**: You Can See Many Random City Weather On Explore Section
-- **Add More Citys**: You Can Add More Citys 
+- **5 Days Forecast**: View a 5-day forecast for any city.
+- **Unit Toggle (°C/°F)**: Instantly switch between Celsius and Fahrenheit for all temperature displays.
+- **Animated Weather Icons**: Enjoy beautiful, animated weather icons powered by Lottie for sun, rain, clouds, and more.
+- **Smooth Transitions & Animations**: Experience smooth UI transitions for temperature changes, card appearance, and unit toggling.
+- **Live Backgrounds**: The background gradient changes dynamically based on the current weather condition (e.g., sunny, rainy, snowy, cloudy).
+- **Auto-Refresh**: Weather data updates automatically every 10 minutes (if enabled).
+- **Interactive Search**: Search for any city with instant results (autocomplete coming soon).
+- **Hover & Click Effects**: Forecast cards and buttons respond visually to user interaction.
+- **Responsive Feedback**: Loading spinners, animated error messages, and gentle feedback for user actions.
+- **Favorites (Save Cities)**: Save your favorite cities for quick access (coming soon).
+- **Dark Mode**: Switch between light and dark themes (coming soon).
+- **Weather Alerts**: Get notified of weather alerts if available (coming soon).
+- **Sound Effects**: Subtle sounds for weather changes or alerts (optional, coming soon).
+- **Explore Section**: See weather for random cities in the Explore section.
+- **Add More Cities**: Add and view multiple cities easily.
 
 ### Technologies Used 
 
